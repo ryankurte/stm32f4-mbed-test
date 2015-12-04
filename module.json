@@ -1,0 +1,11 @@
+{
+  "name": "stm32f4-test",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mbed-hal": "^1.2.0"
+  }
+}
